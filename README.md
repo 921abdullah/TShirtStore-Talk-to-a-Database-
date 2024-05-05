@@ -9,5 +9,7 @@ This is an end to end LLM project based on Google Palm and Langchain. I built a 
 4. Acquire an api key through makersuite.google.com and put it in .env file
 5. Setup your database
 6. Run the Streamlit app by executing:
-   streamlit run main.py
+   ```bash
+      streamlit run main.py
+   ```
 7. The web app will open in your browser where you can ask questions
