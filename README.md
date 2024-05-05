@@ -15,8 +15,8 @@ This is an end to end LLM project based on Google Palm and Langchain. I built a 
 7. The web app will open in your browser where you can ask questions
 
 # Project Structure
-   main.py: The main Streamlit application script.
-   langchain_helper.py: This has all the langchain code
-   requirements.txt: A list of required Python packages for the project.
-   few_shots.py: Contains few shot prompts
-   .env: Configuration file for storing your Google API key.
+   1. main.py: The main Streamlit application script.
+   2. langchain_helper.py: This has all the langchain code
+   3. requirements.txt: A list of required Python packages for the project.
+   4. few_shots.py: Contains few shot prompts
+   5. .env: Configuration file for storing your Google API key.
